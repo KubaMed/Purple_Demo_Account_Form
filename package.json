@@ -1,0 +1,17 @@
+{
+  "name": "cypresse2etest",
+  "version": "1.0.0",
+  "description": "cypress testing test e2e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "automation"
+  ],
+  "author": "Jakub Med",
+  "license": "ISC"
+}
